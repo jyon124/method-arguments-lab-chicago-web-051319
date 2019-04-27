@@ -1,1 +1,3 @@
-def introduction_with_language(name, phrase)
+def introduction(name)
+  puts phrase = name;
+end
